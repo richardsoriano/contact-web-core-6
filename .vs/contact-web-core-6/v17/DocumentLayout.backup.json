@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wdrum\\source\\repos\\contact-web-core-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF8B0E8-E2EB-4A27-A9DA-5BBCDE079B9E}|contact-web-core-6\\contact-web-core-6.csproj|c:\\users\\wdrum\\source\\repos\\contact-web-core-6\\contact-web-core-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF8B0E8-E2EB-4A27-A9DA-5BBCDE079B9E}|contact-web-core-6\\contact-web-core-6.csproj|solutionrelative:contact-web-core-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wdrum\\source\\repos\\contact-web-core-6\\contact-web-core-6\\appsettings.json",
+              "RelativeDocumentMoniker": "contact-web-core-6\\appsettings.json",
+              "ToolTip": "C:\\Users\\wdrum\\source\\repos\\contact-web-core-6\\contact-web-core-6\\appsettings.json",
+              "RelativeToolTip": "contact-web-core-6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T05:43:34.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
